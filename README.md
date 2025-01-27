@@ -1,4 +1,4 @@
-# ProyectoDS2
+# ProyectoDS2 - primera parte
 
 Análisis de la cuenta de Youtube Tienso_ok
 
